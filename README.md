@@ -13,7 +13,7 @@ Using Python, MySQL, and Power BI, the project transforms raw banking data into 
 
 ## 📊 Dashboard Preview
 
-![Dashboard](Screenshot/dashboard.png)
+![Dashboard](Banking-Loan-Risk-Analysis/Screenshot/dashboard.png)
 
 ## 🎯 Key Features
 
